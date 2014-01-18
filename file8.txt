@@ -1,0 +1,1 @@
+An FET amplifier is an amplifier which uses a field-effect transistor (FET). The main advantage of a FET when used for amplification is that it has very high input impedance and low output impedance. These are two main conditions for an amplifier.
